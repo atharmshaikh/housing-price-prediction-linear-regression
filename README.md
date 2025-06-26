@@ -138,7 +138,7 @@ jupyter notebook linear_regression_model.ipynb
 Or use Google Colab by replacing the GitHub URL in the browser like this:
 
 ```
-https://githubtocolab.com/
+https://githubtocolab.com/atharmshaikh/housing-price-regression-analysis/blob/main/linear_regression_model.ipynb
 ```
 
 ---
