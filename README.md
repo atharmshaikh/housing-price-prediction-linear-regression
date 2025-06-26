@@ -117,7 +117,7 @@ housing-price-prediction-linear-regression/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/housing-price-prediction-linear-regression.git
+git clone https://github.com/atharmshaikh/housing-price-prediction-linear-regression.git
 cd housing-price-prediction-linear-regression
 ```
 
